@@ -1,6 +1,8 @@
 # Dash Signal Split
 
 ## Overview
+![Chart 1](signal_split.png)
+![Chart 2](signal_split2.png)
 This Dash application provides a detailed breakdown of individual signals affecting position changes in soymeal futures. Analysts can isolate specific signals to evaluate their influence on trading behavior.
 
 ## Features
@@ -21,3 +23,5 @@ This Dash application provides a detailed breakdown of individual signals affect
 ## Data
 - Signals derived from LDC internal datasets, incorporating both technical and fundamental indicators.
 - Designed to facilitate quantitative analysis of broker position changes.
+
+
